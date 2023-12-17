@@ -1,3 +1,9 @@
 # Forest-Cover-Type
-Project 3 - FYS-STK4155
+Project 3 for FYS-STK4155 - Applied Data Analysis and Machine Learning A.Y. 2023/24
+
+This repository contains the files created for the development of the project.
+It contains a folder, src, containing the code implemented to solve the tasks.
+The project has been made by:
+-Marco Pozzoli
+-Lila Cassan
 http://archive.ics.uci.edu/dataset/31/covertype
