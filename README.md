@@ -7,6 +7,7 @@ It contains a folder, src, containing the code implemented to solve the tasks:
 
 - RFXG: code for XGBoosting and Random Forest
 - FFNN_tensorflow: code for the Feed-Forward Neural Network using tensorflow
+- FFNN_tensorflow2: other run of the FFNN, modifying the learning rates, the hidden layers and the number of epochs
 
 The project has been made by:
  - Marco Pozzoli
